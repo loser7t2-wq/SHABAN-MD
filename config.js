@@ -23,7 +23,7 @@ PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
 MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.ibb.co/93YvnSVH/shaban-md.jpg",
 // add custom menu and mention reply image url   
-BOT_NAME: process.env.BOT_NAME || "⚡CʏʙᴇʀBᴏᴛ 🤖🔥 V5",
+BOT_NAME: process.env.BOT_NAME || "Cʏʙᴇʀ-Bᴏᴛ V5",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "Cʏʙᴇʀ-Bᴏᴛ ",
 // type sticker pack name 
